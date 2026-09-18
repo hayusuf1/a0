@@ -64,7 +64,7 @@ fun ButtonHandler(
     Column() {
 
         Text(
-            text = "Name: Hamse Yusuf" +
+            text = "Number: 1907812" +
                     " CCID:hamse1",
             modifier.padding(20.dp),
             fontSize = 20.sp,
